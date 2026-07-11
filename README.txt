@@ -1,0 +1,1 @@
+Copia aquí tu bases.pdf y las imágenes oficiales en la carpeta img. Luego sube todo a GitHub Pages.
