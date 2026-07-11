@@ -3,7 +3,7 @@ body{margin:0;font-family:Arial,sans-serif;background:#f5f7fb;color:#223}
 nav{display:flex;gap:20px;justify-content:flex-end;padding:20px;background:#003b7a}
 nav a,.brand{color:#fff;text-decoration:none}
 .brand{margin-right:auto;font-weight:bold}
-.hero{min-height:85vh;background:linear-gradient(135deg,#003b7a,#7a2ea8);color:#fff;display:flex;flex-direction:column}
+.hero{min-height:85vh;background:carnaval-burgos.jpg}
 .hero-content{margin:auto;text-align:center;padding:20px}
 h1{font-size:3rem}
 .btn{display:inline-block;padding:12px 22px;background:#ffd24d;color:#111;text-decoration:none;border-radius:8px;margin:6px}
