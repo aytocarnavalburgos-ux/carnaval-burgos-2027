@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Concurso Cartel Carnaval de Burgos 2027</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<div class="overlay">
+
+<h1>CARNAVAL DE BURGOS 2027</h1>
+
+<h2>Concurso del Cartel Oficial</h2>
+
+<p class="premio">Premio único de <strong>450 €</strong></p>
+
+<div id="contador"></div>
+
+<a class="boton" href="bases.pdf">DESCARGAR BASES</a>
+
+<a class="boton2" href="mailto:ayto.carnaval.burgos@gmail.com">
+ENVIAR PROPUESTA
+</a>
+
+</div>
+
+</header>
+
+<section>
+
+<h2>Información del Concurso</h2>
+
+<div class="grid">
+
+<div class="card">
+<h3>Tema</h3>
+<p>Libre.</p>
+</div>
+
+<div class="card">
+<h3>Premio</h3>
+<p>450 €</p>
+</div>
+
+<div class="card">
+<h3>Entrega</h3>
+<p>Hasta el 17 de julio de 2026.</p>
+</div>
+
+<div class="card">
+<h3>Fallo</h3>
+<p>23 de julio de 2026.</p>
+</div>
+
+</div>
+
+</section>
+
+<section class="faq">
+
+<h2>Preguntas Frecuentes</h2>
+
+<h3>¿Quién puede participar?</h3>
+
+<p>Cualquier persona mayor de 16 años.</p>
+
+<h3>¿Cuántos carteles puedo presentar?</h3>
+
+<p>Uno por participante.</p>
+
+<h3>¿Qué formato debe tener?</h3>
+
+<p>Vertical A3. Técnica libre.</p>
+
+<h3>¿Dónde envío mi cartel?</h3>
+
+<p>
+ayto.carnaval.burgos@gmail.com
+</p>
+
+</section>
+
+<footer>
+
+Ayuntamiento de Burgos · Carnaval 2027
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
